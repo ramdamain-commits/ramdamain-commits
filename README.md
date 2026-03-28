@@ -16,6 +16,9 @@ SSD の価格推移を自動追跡してグラフ表示するツール。Google 
 **[IT パスポート演習](https://ramdamain-commits.github.io/it-passport-training/)**
 過去問 800 問を収録した PWA 学習アプリ。オフライン対応・進捗管理機能つき。
 
+**[FP3 級過去問トレーニング](https://ramdamain-commits.github.io/fp3-training/)**
+FP3 級過去問の学習 PWA アプリ。
+
 ### AI
 
 **[MAGI System](https://ramdamain-commits.github.io/magi-system/)**
@@ -29,7 +32,7 @@ SSD の価格推移を自動追跡してグラフ表示するツール。Google 
 ### ポータル
 
 **[Projects Portal](https://ramdamain-commits.github.io/portal/)**
-全プロジェクトの入口ページ。
+全プロジェクトの入口ページ。カテゴリフィルター機能つき。
 
 ---
 
