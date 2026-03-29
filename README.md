@@ -6,33 +6,34 @@
 
 ## プロジェクト一覧
 
+<!-- CATALOG-START: この領域は setting/Invoke-ProjectCatalog.ps1 が生成。手編集しない -->
+
 ### ツール
 
-**[SSD 価格トラッカー](https://ramdamain-commits.github.io/ssd-deal-tracker/)**
-SSD の価格推移を自動追跡してグラフ表示するツール。Google Apps Script でデータ収集し、GitHub Pages で可視化。
+- [SSD価格トラッカー](https://ramdamain-commits.github.io/ssd-deal-tracker/) — SSDの価格推移を自動追跡・グラフ表示するダッシュボード。Google Apps Script でデータ収集。
 
 ### 学習
 
-**[IT パスポート演習](https://ramdamain-commits.github.io/it-passport-training/)**
-過去問 800 問を収録した PWA 学習アプリ。オフライン対応・進捗管理機能つき。
+- [ITパスポート演習](https://ramdamain-commits.github.io/it-passport-training/) — 過去問800問を収録したPWA学習アプリ。オフラインでも使える。
+- [FP3級ドリル](https://ramdamain-commits.github.io/fp3-training/) — FP3級の出題傾向ベース練習アプリ。オフラインでも使えるPWA。
 
-**[FP3 級過去問トレーニング](https://ramdamain-commits.github.io/fp3-training/)**
-FP3 級過去問の学習 PWA アプリ。
+### ヘルスケア
+
+- **健康管理「律」** — 食事記録・体重推移ダッシュボード。GAS + Android で個人運用中。
 
 ### AI
 
-**[MAGI System](https://ramdamain-commits.github.io/magi-system/)**
-3 体の AI による多角的意思決定支援システム。異なる視点からの分析を提供。
+- [MAGI System](https://ramdamain-commits.github.io/magi-system/) — 3体のAIが異なる価値観で議論し、意思決定の死角を照らす多角的審議システム。
 
 ### 創作
 
-**[赤い桜 世界設定資料](https://ramdamain-commits.github.io/kaiserreich-akai-sakura/)**
-カイザーライヒ世界観をベースにした創作設定資料集。
+- [赤い桜 世界設定資料](https://ramdamain-commits.github.io/kaiserreich-akai-sakura/) — カイザーライヒ世界の設定資料集。国際関係・日本内政・連邦制度・シナリオ構成。
+
+<!-- CATALOG-END -->
 
 ### ポータル
 
-**[Projects Portal](https://ramdamain-commits.github.io/portal/)**
-全プロジェクトの入口ページ。カテゴリフィルター機能つき。
+- [Projects Portal](https://ramdamain-commits.github.io/portal/) — 全プロジェクトの入口ページ。カテゴリフィルター機能つき。
 
 ---
 
