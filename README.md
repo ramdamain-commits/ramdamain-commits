@@ -1,12 +1,12 @@
 # ramdamain-commits
 
-個人開発者。業務系ツール・学習アプリ・AI 活用・創作設定資料などを GitHub Pages で公開しています。
+個人開発者。業務系ツール・学習アプリ・AI 活用・創作設定資料・ゲーム攻略ガイドなどを GitHub Pages で公開しています。
 
 ---
 
 ## プロジェクト一覧
 
-<!-- CATALOG-START: この領域は setting/Invoke-ProjectCatalog.ps1 が生成。手編集しない -->
+<!-- CATALOG-START: この領域は Invoke-ProjectCatalog.ps1 が生成。手編集しない -->
 
 ### ツール
 
@@ -29,6 +29,10 @@
 
 - [赤い桜 世界設定資料](https://ramdamain-commits.github.io/kaiserreich-akai-sakura/) — カイザーライヒ世界の設定資料集。国際関係・日本内政・連邦制度・シナリオ構成。
 
+### ゲーム
+
+- [Paradox攻略ガイド](https://ramdamain-commits.github.io/paradox-game-guides/) — EU5・CK3・Vic3の攻略ガイド集。国別戦略とおすすめMODを掲載。
+
 <!-- CATALOG-END -->
 
 ### ポータル
@@ -41,6 +45,6 @@
 
 - Google Apps Script
 - HTML / CSS / JavaScript
-- PWA (Progressive Web App)
+- PWA / Service Worker（一部の学習アプリのみ）
 - GitHub Pages
 - GitHub Actions

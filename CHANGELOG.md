@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-04-10
+
+### Changed
+- プロジェクト一覧の catalog 生成結果に Paradox攻略ガイドを反映し、`CATALOG-START` コメント表記を `Invoke-ProjectCatalog.ps1` に統一
+- README の技術スタックを実態に合わせて更新し、PWA 対応が一部学習アプリのみであることを明記
+
 ## 2026-03-29
 
 ### Changed
