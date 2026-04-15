@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-04-15
+
+### Changed
+- Paradox攻略ガイドをプロジェクト一覧に追加し、catalog 表記を `Invoke-ProjectCatalog.ps1` ベースに統一 (3aeeb02)
+- README の技術スタックを実態に合わせて更新 (3aeeb02)
+
 ## 2026-04-10
 
 ### Changed
